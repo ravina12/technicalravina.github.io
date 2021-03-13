@@ -1,0 +1,1023 @@
+/*for 125%*/
+@media screen and (max-width: 1200px) and (min-width: 992px) {
+  .main_ul a {
+    font-size: 10px !important;
+  }
+  .m_logo {
+    width: 80% !important;
+  }
+  .text-ab h1 {
+    font-size: 25px;
+  }
+  .text-ab {
+    left: 106px !important;
+    top: 75px !important;
+  }
+  .text-ab p {
+    font-size: 9px !important;
+  }
+  .per {
+    font-size: 12px !important;
+  }
+  .btn-new {
+    font-size: 10px !important;
+  }
+
+  .what h1 {
+    font-size: 35px !important;
+  }
+  .do-text h5 {
+    font-size: 15px !important;
+  }
+  .do-text {
+    height: 80px !important;
+  }
+  .abt-row1,
+  .abt-row {
+    padding: 40px 0px !important;
+  }
+  .btn-do {
+    font-size: 10px !important;
+  }
+  .btn-do1 {
+    font-size: 10px !important;
+  }
+  .top-right {
+    border-top: 14px solid #03ce94 !important;
+    border-left: 14px solid transparent !important;
+  }
+  .zig-zag-t {
+    width: 77%;
+  }
+  .zig-zag-t p {
+    font-size: 12px !important;
+  }
+  .btn-new1 {
+    font-size: 10px !important;
+    margin: 20px 0px 0px 0px !important;
+  }
+  .img-zag {
+    padding-top: 30px;
+  }
+  .la {
+    padding: 0px 0px 30px 0px !important;
+  }
+  .do-text1 h5 {
+    font-size: 15px !important;
+  }
+  .do-text1 p {
+    font-size: 10px !important;
+  }
+  .do-text1 {
+    height: 125px !important;
+  }
+  .mech h1 {
+    font-size: 50px !important;
+  }
+  .new-prog {
+    width: 80px !important;
+  }
+  .StepProgress-item h5 {
+    font-size: 18px !important;
+  }
+  .pro-div {
+    padding-left: 20px !important;
+  }
+  .StepProgress-item::after {
+    top: 30px !important;
+    left: -56px !important;
+  }
+  .StepProgress::before {
+    left: 6px !important;
+  }
+  .partners {
+    height: 300px !important;
+  }
+  .faq-text {
+    font-size: 35px !important;
+  }
+  .content {
+    padding: 50px 0px 0px 0px !important;
+  }
+
+  .acc__title {
+    font-size: 13px !important;
+  }
+  .subscribe {
+    width: 70% !important;
+  }
+
+  label.sign-text {
+    font-size: 11px !important;
+  }
+
+  input.form-control.nba-subscribe {
+    width: 35% !important;
+  }
+
+  .contact-div h1 {
+    font-size: 30px !important;
+  }
+
+  .email h6,
+  .follow h6 {
+    font-size: 15px !important;
+  }
+  .email p a {
+    font-size: 12px !important;
+  }
+  .fol-clas li {
+    padding: 0px 15px 0px 0px !important;
+  }
+  .non1 ul li a {
+    font-size: 11px !important;
+  }
+  .left-part ul li {
+    padding: 0px 0px 0px 10px !important;
+  }
+}
+/*for 110%*/
+@media screen and (max-width: 1315px) and (min-width: 1200px) {
+  .main_ul a {
+    font-size: 12px !important;
+  }
+  .text-ab h1 {
+    font-size: 40px !important;
+  }
+
+  .zig-zag-t {
+    width: 77% !important;
+  }
+  .text-ab {
+    top: 86px !important;
+  }
+  .partners {
+    height: 400px !important;
+  }
+  .subscribe {
+    width: 70% !important;
+  }
+}
+/*for 90%*/
+@media screen and (min-width: 1500px) and (max-width: 1700px) {
+  .text-ab {
+    top: 125px !important;
+  }
+  .partners {
+    height: 500px !important;
+  }
+  .faq-text {
+    padding-top: 30px !important;
+  }
+  .main_ul a {
+    font-size: 16px !important;
+  }
+  .what h1 {
+    font-size: 3em !important;
+  }
+  .do-text h5,
+  .do-textsss h5 {
+    line-height: 1.3em !important;
+  }
+  .btn-do {
+    font-size: 14px !important;
+  }
+  .btn-do1 {
+    font-size: 14px !important;
+  }
+  .top-right {
+    border-top: 20px solid #03ce94 !important;
+    border-left: 20px solid transparent !important;
+  }
+  .zig-zag-t p {
+    font-size: 1.1rem !important;
+  }
+  .m_logo {
+    width: 110px !important;
+  }
+  .mech h1 {
+    font-size: 5.2em !important;
+  }
+  .StepProgress-item h5 {
+    font-size: 2em !important;
+  }
+  .StepProgress-item p {
+    font-size: 1em !important;
+  }
+
+  .faq-text {
+    font-size: 3.3em !important;
+  }
+
+  .acc__title {
+    font-size: 16px !important;
+  }
+  .acc__panel {
+    font-size: 16px !important;
+  }
+  label.sign-text {
+    font-size: 15px !important;
+  }
+
+  .contact-div h1 {
+    font-size: 3.3em !important;
+  }
+}
+/*for 80%*/
+
+@media screen and (min-width: 1700px) {
+  .m_logo {
+    width: 120px !important;
+  }
+  .text-ab h1 {
+    font-size: 45px !important;
+  }
+  .text-ab {
+    top: 155px !important;
+  }
+  .partners {
+    height: 550px !important;
+  }
+  .faq-text {
+    padding-top: 60px !important;
+  }
+  .main_ul a {
+    font-size: 18px !important;
+  }
+  .what h1 {
+    font-size: 3.2em !important;
+  }
+  .do-text h5,
+  .do-textsss h5 {
+    line-height: 1.5em !important;
+  }
+  .btn-do {
+    font-size: 16px !important;
+  }
+  .btn-do1 {
+    font-size: 16px !important;
+  }
+  .top-right {
+    border-top: 20px solid #03ce94 !important;
+    border-left: 20px solid transparent !important;
+  }
+  .zig-zag-t p {
+    font-size: 1.2rem !important;
+  }
+  .mech h1 {
+    font-size: 5.3em !important;
+  }
+  .StepProgress-item h5 {
+    font-size: 2.2em !important;
+  }
+  .StepProgress-item p {
+    font-size: 1.2em !important;
+  }
+
+  .faq-text {
+    font-size: 3.5em !important;
+  }
+
+  .acc__title {
+    font-size: 18px !important;
+  }
+  .acc__panel {
+    font-size: 18px !important;
+  }
+  label.sign-text {
+    font-size: 16px !important;
+  }
+
+  .contact-div h1 {
+    font-size: 3.5em !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+}
+@media (min-width: 768px) and (max-width: 991px) and (orientation: landscape) {
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .m_m {
+    font-family: "Inter-Regular" !important;
+    font-size: 15px !important;
+  }
+  .m_m strong {
+    font-family: "Inter-Bold" !important;
+    font-size: 22px !important;
+    padding-bottom: 10px !important;
+  }
+  .do-text .top-right,
+  .do-textsss .top-right {
+    display: none !important;
+  }
+
+  .btn-do,
+  .btn-do1 {
+    display: none;
+  }
+  .hamburger-menu {
+    display: block !important;
+  }
+  .m_logo {
+    width: 150px !important;
+  }
+
+  .cud {
+    padding: 0px !important;
+  }
+  .main_head {
+    margin: 20px 20px 10px 20px !important;
+  }
+
+  .ban-img {
+    margin: 0px 20px !important;
+    padding: 50px 0px 0px 0px !important;
+  }
+  #triangle-topleft {
+    border-top: 60px solid #03ce94 !important;
+    border-left: 60px solid transparent !important;
+  }
+
+  .text-ab-mob {
+    padding: 10px 0px 10px 0px;
+    width: 100% !important;
+  }
+  .text-ab-mob h1 {
+    font-size: 31px !important;
+    font-family: "Lobster", cursive;
+    font-family: "Redressed", cursive;
+  }
+  .text-ab-mob br,
+  .email p a br,
+  .do-text h5 br,
+  .do-textsss h5 br,
+  .do-text1 h5 br,
+  .do-text1 p br,
+  label.sign-text br,
+  .m_m br,
+  .what .wwdo br {
+    display: none !important;
+  }
+  .do-text,
+  .do-textsss {
+    height: fit-content !important;
+    padding: 30px 0px 0px 0px !important
+    ;
+  }
+
+  .do-text1 {
+    height: fit-content !important;
+    padding: 20px 0px 0px 0px !important
+    ;
+  }
+  .what {
+    display: block !important;
+  }
+
+  .mech {
+    padding: 0px !important;
+  }
+  .mech-mob h1 {
+    font-size: 31px !important;
+  }
+  .wrapper {
+    width: 90% !important;
+  }
+  .StepProgress-item:not(:last-child) {
+    padding-bottom: 25px !important;
+  }
+  .StepProgress {
+    padding-left: 0px !important;
+  }
+  .new-prog {
+    width: 90px !important;
+    padding-bottom: 10px !important;
+  }
+
+  .recol,
+  .recol1 {
+    padding-left: 15px !important;
+  }
+
+  .do-text1 h5 {
+    font-size: 22px !important;
+  }
+  .do-text1 p {
+    font-size: 15px !important;
+  }
+  .wwd1 {
+    padding: 30px 0px 60px 0px !important;
+    margin: 0px 20px !important;
+  }
+  .main_head.sticky {
+    padding: 10px 20px !important;
+  }
+  .sticky .menu__btn > span,
+  .sticky .menu__btn > span::before,
+  .sticky .menu__btn > span::after {
+    background-color: #11669e !important;
+  }
+
+  .sticky .m_logo_mobile {
+    display: block !important;
+    width: 120px !important;
+  }
+
+  .sticky .m_logo {
+    display: none !important;
+  }
+  .abt-row1,
+  .abt-row {
+    padding: 0px 0px !important;
+  }
+
+  .text-ab-mobg {
+    background: linear-gradient(
+      90deg,
+      rgba(9, 9, 121, 1) 48%,
+      rgba(0, 125, 255, 1) 100%
+    ) !important;
+    padding: 40px 20px !important;
+  }
+  .text-ab-mobg p {
+    font-size: 18px !important;
+    font-family: "Lobster", cursive;
+    font-family: "Redressed", cursive;
+    color: #fff;
+
+    line-height: 2rem;
+    margin-bottom: 0.4rem !important;
+  }
+  .per {
+    font-size: 22px !important;
+    color: #000;
+  }
+
+  .btn-new {
+    display: none !important;
+  }
+  .img-gal h1 {
+    font-size: 31px !important;
+  }
+  .what h1 {
+    font-size: 31px !important;
+    text-align: center !important;
+    padding: 20px 0px !important;
+  }
+
+  .do-text h5,
+  .do-textsss h5 {
+    font-size: 15px !important;
+    padding: 0px 25px !important;
+  }
+  .pro-div {
+    padding-left: 10px !important;
+    display: block !important;
+  }
+  .StepProgress-item p {
+    font-size: 10px !important;
+  }
+  .StepProgress::before,
+  .StepProgress-item::after {
+    display: none !important;
+  }
+  .partners {
+    margin: 0px 0px !important;
+    height: 150px !important;
+  }
+  .content {
+    background: #24303a;
+    padding: 20px 0px 0px 0px;
+  }
+  .faq-text {
+    font-size: 31px !important;
+    text-align: center !important;
+  }
+  .acc__title::before {
+    font-size: 10px !important;
+  }
+
+  .acc__title,
+  .acc__panel {
+    font-size: 13px !important;
+    padding: 8px 20px !important;
+  }
+  .faq {
+    margin: 0px 0px !important;
+    padding-bottom: 50px !important;
+  }
+  .con {
+    margin: 0px 0px !important;
+  }
+  .subscribe {
+    width: 100% !important;
+    margin: 0px 0px !important;
+    padding: 10px 20px !important;
+  }
+  label.sign-text {
+    padding: 0px 0px !important;
+    font-size: 15px !important;
+    color: #fff !important;
+  }
+  .part-img {
+    width: 100% !important;
+
+    padding: 20px !important;
+  }
+
+  input.form-control.nba-subscribe {
+    width: 100% !important;
+
+    margin: 10px 0px 10px 0px !important;
+    padding: 20px 20px 20px 10px !important;
+  }
+  .nba-btn-1 {
+    padding: 10px 35px !important;
+    margin-left: auto !important;
+    margin-right: 0px !important;
+    font-size: 15px !important;
+  }
+  .contact-div {
+    margin: 0px 20px !important;
+    padding: 0px !important;
+  }
+  .contact-div h1 {
+    font-size: 31px !important;
+    text-align: center !important;
+    color: #fff !important;
+  }
+  .con-row {
+    width: 98% !important;
+
+    padding: 20px 0px !important;
+  }
+  .cont-form input {
+    padding: 15px 10px !important;
+  }
+  .nba-btn-2 {
+    padding: 10px 35px !important;
+
+    font-size: 15px !important;
+    background: #24303a !important;
+  }
+  .email,
+  .follow {
+    padding: 20px 0px 0px 0px !important;
+  }
+
+  .email h6,
+  .follow h6 {
+    font-size: 15px !important;
+  }
+  .email p a {
+    margin-bottom: 0px !important;
+    font-size: 14px !important;
+  }
+  .con-bottom {
+    display: none !important;
+  }
+  .con-bottom-mob {
+    display: block !important;
+  }
+  .exp {
+    display: none !important;
+  }
+  .exp-mobile {
+    display: block !important;
+  }
+  .gr-cl-mob {
+    margin: 0px 20px;
+  }
+  .img-zag {
+    padding-top: 0px !important;
+  }
+  .mobile-t {
+    padding: 50px 0px !important;
+  }
+  .btn-new1 {
+    margin: 10px 0px 20px 0px !important;
+  }
+  .mobile-t p {
+    color: #24303a;
+    font-size: 15px;
+    font-family: "Inter-Regular";
+  }
+  .acc {
+    padding: 0px 15px !important;
+    width: 98% !important;
+    max-width: 100% !important;
+  }
+  #banner-mob {
+    display: block !important;
+  }
+  #banner {
+    display: none !important;
+  }
+
+  .top-boxs {
+    display: none !important;
+  }
+  .mech,
+  .faq-content {
+    display: none !important;
+  }
+  .mech-mob {
+    display: block !important;
+    padding: 0px 0px 50px 0px !important;
+  }
+  .faq-content-mob {
+    display: block !important;
+    padding: 80px 0px 50px 0px !important;
+  }
+  .acc__title1 {
+    color: #03ce94;
+    font-family: "Inter-Regular";
+    padding: 10px 0px !important
+    ;
+    font-size: 15px !important;
+  }
+
+  .acc__panel1 {
+    color: #fff;
+    font-family: "Inter-Light";
+    font-size: 15px !important;
+  }
+  .acc__card {
+    border-bottom: none !important;
+    padding-bottom: 20px !important;
+  }
+  .pr4 {
+    text-align: center !important;
+  }
+  .ssimg {
+    width: 96% !important;
+  }
+  .img-gal p {
+    font-size: 17px !important;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .ssimg {
+    width: 96% !important;
+  }
+  .m_m {
+    font-family: "Inter-Regular" !important;
+    font-size: 15px !important;
+  }
+  .m_m strong {
+    font-family: "Inter-Bold" !important;
+    font-size: 22px !important;
+    padding-bottom: 7px !important;
+  }
+  .do-text .top-right,
+  .do-textsss .top-right {
+    display: none !important;
+  }
+
+  .btn-do,
+  .btn-do1 {
+    display: none;
+  }
+  .hamburger-menu {
+    display: block !important;
+  }
+  .m_logo {
+    width: 130px !important;
+  }
+
+  .cud {
+    padding: 0px !important;
+  }
+  .main_head {
+    margin: 20px 20px 10px 20px !important;
+  }
+
+  .ban-img {
+    margin: 0px 20px !important;
+    padding: 50px 0px 0px 0px !important;
+  }
+  #triangle-topleft {
+    border-top: 60px solid #03ce94 !important;
+    border-left: 60px solid transparent !important;
+  }
+
+  .text-ab-mob {
+    padding: 10px 0px 10px 0px;
+    width: 100% !important;
+  }
+  .text-ab-mob h1 {
+    font-size: 31px !important;
+    font-family: "Lobster", cursive;
+    font-family: "Redressed", cursive;
+  }
+  .text-ab-mob br,
+  .email p a br,
+  .do-text h5 br,
+  .do-textsss h5 br,
+  .do-text1 h5 br,
+  .do-text1 p br,
+  label.sign-text br,
+  .m_m br,
+  .what .wwdo br {
+    display: none !important;
+  }
+  .do-text,
+  .do-textsss {
+    height: fit-content !important;
+    padding: 30px 0px 0px 0px !important
+    ;
+  }
+
+  .do-text1 {
+    height: fit-content !important;
+    padding: 20px 0px 0px 0px !important
+    ;
+  }
+  .what {
+    display: block !important;
+  }
+
+  .mech {
+    padding: 0px !important;
+  }
+  .mech-mob h1 {
+    font-size: 31px !important;
+  }
+  .wrapper {
+    width: 90% !important;
+  }
+  .StepProgress-item:not(:last-child) {
+    padding-bottom: 45px !important;
+  }
+  .StepProgress {
+    padding-left: 0px !important;
+  }
+  .new-prog {
+    width: 90px !important;
+    padding-bottom: 15px !important;
+  }
+
+  .recol,
+  .recol1 {
+    padding-left: 15px !important;
+  }
+
+  .do-text1 h5 {
+    font-size: 22px !important;
+    margin-bottom: 0px !important;
+    line-height: 2rem !important;
+  }
+  .do-text1 p {
+    font-size: 15px !important;
+  }
+  .wwd1 {
+    padding: 30px 0px 60px 0px !important;
+    margin: 0px 20px !important;
+  }
+  .main_head.sticky {
+    padding: 10px 20px !important;
+  }
+  .sticky .menu__btn > span,
+  .sticky .menu__btn > span::before,
+  .sticky .menu__btn > span::after {
+    background-color: #11669e !important;
+  }
+
+  .sticky .m_logo_mobile {
+    display: block !important;
+    width: 120px !important;
+  }
+
+  .sticky .m_logo {
+    display: none !important;
+  }
+  .abt-row1,
+  .abt-row {
+    padding: 0px 0px !important;
+  }
+
+  .text-ab-mobg {
+    background: linear-gradient(
+      90deg,
+      rgba(9, 9, 121, 1) 48%,
+      rgba(0, 125, 255, 1) 100%
+    ) !important;
+    padding: 40px 20px !important;
+  }
+  .text-ab-mobg p {
+    font-size: 18px !important;
+    font-family: "Lobster", cursive;
+    font-family: "Redressed", cursive;
+    color: #fff;
+
+    line-height: 1.5rem !important;
+    margin-bottom: 0.2rem !important;
+  }
+  .per {
+    font-size: 22px !important;
+    color: #000;
+  }
+
+  .btn-new {
+    display: none !important;
+  }
+  .what h1 {
+    font-size: 31px !important;
+    text-align: center !important;
+    padding: 20px 0px !important;
+  }
+
+  .do-text h5,
+  .do-textsss h5 {
+    font-size: 15px !important;
+    padding: 0px 25px !important;
+  }
+  .pro-div {
+    padding-left: 10px !important;
+    display: block !important;
+  }
+  .StepProgress-item p {
+    font-size: 10px !important;
+  }
+  .StepProgress::before,
+  .StepProgress-item::after {
+    display: none !important;
+  }
+  .partners {
+    margin: 0px 0px !important;
+    height: 150px !important;
+  }
+  .content {
+    background: #24303a;
+    padding: 20px 0px 0px 0px;
+  }
+  .faq-text {
+    font-size: 31px !important;
+    text-align: center !important;
+  }
+  .acc__title::before {
+    font-size: 10px !important;
+  }
+  .acc {
+    width: 98% !important;
+  }
+  .acc__title,
+  .acc__panel {
+    font-size: 13px !important;
+    padding: 8px 20px !important;
+  }
+  .faq {
+    margin: 0px 0px !important;
+    padding-bottom: 50px !important;
+  }
+  .con {
+    margin: 0px 0px !important;
+  }
+  .subscribe {
+    width: 100% !important;
+    margin: 0px 0px !important;
+    padding: 10px 20px !important;
+  }
+  label.sign-text {
+    padding: 0px 0px !important;
+    font-size: 15px !important;
+    color: #fff !important;
+  }
+  .part-img {
+    width: 100% !important;
+
+    padding: 20px !important;
+  }
+
+  input.form-control.nba-subscribe {
+    width: 100% !important;
+
+    margin: 10px 0px 10px 0px !important;
+    padding: 20px 20px 20px 10px !important;
+  }
+  .nba-btn-1 {
+    padding: 10px 35px !important;
+    margin-left: auto !important;
+    margin-right: 0px !important;
+    font-size: 15px !important;
+  }
+  .contact-div {
+    margin: 0px 20px !important;
+    padding: 0px !important;
+  }
+  .contact-div h1 {
+    font-size: 31px !important;
+    text-align: center !important;
+    color: #fff !important;
+  }
+  .con-row {
+    width: 98% !important;
+
+    padding: 20px 0px !important;
+  }
+  .cont-form input {
+    padding: 15px 10px !important;
+  }
+  .nba-btn-2 {
+    padding: 10px 35px !important;
+
+    font-size: 15px !important;
+    background: #24303a !important;
+  }
+  .email,
+  .follow {
+    padding: 20px 0px 0px 0px !important;
+  }
+
+  .email h6,
+  .follow h6 {
+    font-size: 15px !important;
+  }
+  .email p a {
+    margin-bottom: 0px !important;
+    font-size: 14px !important;
+  }
+  .con-bottom {
+    display: none !important;
+  }
+  .con-bottom-mob {
+    display: block !important;
+  }
+  .exp {
+    display: none !important;
+  }
+  .exp-mobile {
+    display: block !important;
+  }
+  .gr-cl-mob {
+    margin: 0px 20px;
+  }
+  .img-zag {
+    padding-top: 0px !important;
+  }
+  .mobile-t {
+    padding: 50px 0px !important;
+  }
+  .btn-new1 {
+    margin: 10px 0px 20px 0px !important;
+  }
+  .mobile-t p {
+    color: #24303a;
+    font-size: 15px;
+    font-family: "Inter-Regular";
+  }
+  .acc {
+    padding: 0px 15px !important;
+  }
+  #banner-mob {
+    display: block !important;
+  }
+  #banner {
+    display: none !important;
+  }
+
+  .top-boxs {
+    display: none !important;
+  }
+  .mech,
+  .faq-content {
+    display: none !important;
+  }
+  .mech-mob {
+    display: block !important;
+    padding: 0px 0px 50px 0px !important;
+  }
+  .faq-content-mob {
+    display: block !important;
+    padding: 80px 0px 50px 0px !important;
+  }
+  .acc__title1 {
+    color: #03ce94;
+    font-family: "Inter-Regular";
+    padding: 10px 0px !important
+    ;
+    font-size: 15px !important;
+  }
+
+  .acc__panel1 {
+    color: #fff;
+    font-family: "Inter-Light";
+    font-size: 15px !important;
+  }
+  .acc__card {
+    border-bottom: none !important;
+    padding-bottom: 20px !important;
+  }
+  .pr4 {
+    text-align: center !important;
+  }
+  .img-gal h1 {
+    font-size: 31px !important;
+  }
+  .img-gal p {
+    font-size: 17px !important;
+  }
+}
