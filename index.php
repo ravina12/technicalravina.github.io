@@ -145,7 +145,7 @@
                         <div class="do-textsss">
                           <div class="top-right"></div>
                           <img class="logo-create" src="assets/images/vid.svg" alt="">
-                            <h5>Creating and Editing <br> Videos and Images </h5>
+                            <h5> Editing <br> images for website by <br> handling photoshop and <br> adobe illustrator </h5>
                         </div>
                         
                     </div>
@@ -192,7 +192,7 @@
                 </div>
                 <div class="col-md-7 col col-12">
                     <div class="zig-zag-t col-12">
-                  <p>I use 'HTML' , 'Bootstrap' , 'CSS' , 'Javascript' , 'Reactjs' for front end developments and 'PHP(Codeigniter)'  , core 'php' , 'node.js' for backend development.</p>
+                  <p>I use 'HTML' , 'Bootstrap' , 'CSS' , 'Javascript' , 'Reactjs(beginner)' for front end developments and 'PHP(Codeigniter)'  , core 'php' , 'node.js(begineer)' for backend development.</p>
 
                     </div>
                     
