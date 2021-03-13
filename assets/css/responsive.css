@@ -602,7 +602,8 @@
   .mobile-t p {
     color: #24303a;
     font-size: 15px;
-    font-family: "Inter-Regular";
+    font-family: "Lobster", cursive;
+    font-family: "Redressed", cursive;
   }
   .acc {
     padding: 0px 15px !important;
@@ -633,7 +634,8 @@
   }
   .acc__title1 {
     color: #03ce94;
-    font-family: "Inter-Regular";
+    font-family: "Lobster", cursive;
+    font-family: "Redressed", cursive;
     padding: 10px 0px !important
     ;
     font-size: 15px !important;
@@ -967,7 +969,8 @@
   .mobile-t p {
     color: #24303a;
     font-size: 15px;
-    font-family: "Inter-Regular";
+    font-family: "Lobster", cursive;
+    font-family: "Redressed", cursive;
   }
   .acc {
     padding: 0px 15px !important;
@@ -996,7 +999,8 @@
   }
   .acc__title1 {
     color: #03ce94;
-    font-family: "Inter-Regular";
+    font-family: "Lobster", cursive;
+    font-family: "Redressed", cursive;
     padding: 10px 0px !important
     ;
     font-size: 15px !important;
