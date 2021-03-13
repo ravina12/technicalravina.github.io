@@ -879,9 +879,10 @@ label.sign-text {
 
   color: #fff;
   margin: 0px 50px;
-  font-family: "Inter-Bold", sans-serif;
+  font-family: "Lobster", cursive;
+  font-family: "Redressed", cursive;
   font-size: 22px;
-  font-weight: 600;
+  font-weight: 900;
   text-align: left;
   text-decoration: none;
 
